@@ -2,6 +2,8 @@
 
 ---
 
+Note : Baseline minimum 10k⭐
+
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
 <a href="https://github.com/facebook/react">React</a> (🥇1 ⭐ 211K) - The foundational library for building user interfaces, emphasizing declarative and component-based architecture​
@@ -20,6 +22,8 @@
 
 <a href="https://github.com/reduxjs/redux">Redux</a> (🥇 ⭐60.7K ) - A predictable state management library commonly used with React applications​
 
+<a href="https://github.com/styled-components/styled-components">styled-components</a> (⭐40.6K ) - component library
+
 <a href="https://github.com/react-query/react-query">React Query</a> (🥇 ⭐38K ) - A powerful library for fetching, caching, and synchronizing server state in React applications​
 
 <a href="https://github.com/react-hook-form/react-hook-form">React Hook Form</a> (🥇 ⭐38.7K) - A lightweight library for managing forms in React with minimal re-renders​
@@ -30,11 +34,13 @@
 
 <a href="https://github.com/pmndrs/react-three-fiber">React Three Fiber</a> (🥇 ⭐24.5K) - A React renderer for three.js, making it easier to create 3D content in React applications​
 
-<a href="https://github.com/react-spring/react-spring">React Spring</a> (🥇 ⭐26.2K ) - A spring-physics-based animation library for React, enabling seamless animations for UI elements​
+<a href="https://github.com/TanStack/table">React Table</a> (🥇 ⭐25.2K ) - Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table
 
 <a href="https://github.com/react-bootstrap/react-bootstrap">React Bootstrap</a> (🥇 ⭐22.2K) - A complete re-implementation of Bootstrap components for React, offering a clean and native experience​
 
 <a href="https://github.com/redux-saga/redux-saga">Redux-Saga</a> (🥇 ⭐22.3K) - A middleware library to handle side effects in Redux, using generator functions for better control​
+
+<a href="https://github.com/react-grid-layout/react-grid-layout">React grid layout</a> (🥇 ⭐20.6K) - A draggable and resizable grid layout with responsive breakpoints, for React.
 
 <a href="https://github.com/framer/motion">Framer Motion</a> (🥇 ⭐20.1K) - An animation library that simplifies the process of adding advanced animations to React components​
 
@@ -45,6 +51,8 @@
 <a href="https://github.com/facebook/flux">Flux</a> (🥇 ⭐17.6K) - The architecture that inspired Redux, useful for managing unidirectional data flow in React apps​
 
 <a href="https://github.com/emotion-js/emotion">Emotion</a> (🥇 ⭐17.3K) - A library designed for writing CSS styles with JavaScript, offering powerful and flexible styling capabilities for React components​
+
+<a href="https://github.com/ag-grid/ag-grid">AG Grid</a> (🥇 ⭐13K) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 
 <a href="https://github.com/apollographql/react-apollo">React Apollo</a> (🥇 ⭐10.5K) - A state management and data fetching library tailored for GraphQL APIs, making it easier to manage server-side data​
 
