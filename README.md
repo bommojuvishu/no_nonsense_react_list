@@ -18,9 +18,11 @@ Note : Baseline minimum 10k⭐
 
 <a href="https://github.com/tailwindlabs/tailwindcss">Tailwind CSS</a> (🥇 ⭐71.6K) - Though primarily a utility-first CSS framework, it integrates well with React for building responsive UIs​
 
+<a href="https://github.com/reduxjs/redux">Redux</a> (🥇 ⭐60.7K ) - A predictable state management library commonly used with React applications​
+
 <a href="https://github.com/remix-run/react-router">React Router</a> (🥇 ⭐50K ) - A library for declarative routing in React applications, offering features like server-side rendering and nested routing​
 
-<a href="https://github.com/reduxjs/redux">Redux</a> (🥇 ⭐60.7K ) - A predictable state management library commonly used with React applications​
+<a href="https://github.com/pmndrs/zustand">Zustand</a> (🥇 ⭐58K ) - state management library , tough competitor to redux
 
 <a href="https://github.com/styled-components/styled-components">styled-components</a> (⭐40.6K ) - component library
 
@@ -28,13 +30,17 @@ Note : Baseline minimum 10k⭐
 
 <a href="https://github.com/react-hook-form/react-hook-form">React Hook Form</a> (🥇 ⭐38.7K) - A lightweight library for managing forms in React with minimal re-renders​
 
+<a href="https://github.com/jaredpalmer/formik">Formik </a> (🥇 ⭐34K) - Build forms in React , competitor to the React Hook form
+
 <a href="https://github.com/chakra-ui/chakra-ui">Chakra UI</a> (🥇 ⭐34.2K) - A simple, modular, and accessible component library for building React applications​
 
 <a href="https://github.com/facebook/immutable-js">Immutable.js</a> (🥇 ⭐32.7K) - Provides immutable data structures that can work efficiently with React for predictable state management​
 
-<a href="https://github.com/pmndrs/react-three-fiber">React Three Fiber</a> (🥇 ⭐24.5K) - A React renderer for three.js, making it easier to create 3D content in React applications​
+<a href="https://github.com/JedWatson/react-select">React Select</a> (🥇 ⭐27.7K ) - Select Component for React.js
 
 <a href="https://github.com/TanStack/table">React Table</a> (🥇 ⭐25.2K ) - Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table
+
+<a href="https://github.com/pmndrs/react-three-fiber">React Three Fiber</a> (🥇 ⭐24.5K) - A React renderer for three.js, making it easier to create 3D content in React applications​
 
 <a href="https://github.com/react-bootstrap/react-bootstrap">React Bootstrap</a> (🥇 ⭐22.2K) - A complete re-implementation of Bootstrap components for React, offering a clean and native experience​
 
